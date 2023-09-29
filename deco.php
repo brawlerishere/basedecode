@@ -1,0 +1,1 @@
+<?php echo hash("sha1", md5(base64_decode(aHR0cHM6Ly9jbXNiYXlpcGFuZWwueHl6L2dyb3QvZ2V0cm9rLzEubTN1OD92PWFIUjBjSE02THk5M2QzY3ViMmhoTG5SdkwyOW9ZUzEwZGk5d2JHRjVMekkwT0RNME9EWTNOemxrWVdZMFpESm1aakV3WVE9PQ==)) . "mrs");
